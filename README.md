@@ -30,5 +30,11 @@ You can add, complete, delete, and store tasks in your browser’s local storage
 _Add a screenshot of your app here if you like!_  
 Example:
 ```md
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png
+
+git add README.md
+git commit -m "Added README file"
+git push
+
+
 
